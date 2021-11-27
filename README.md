@@ -6,5 +6,5 @@ This code contains common image processing method.
 
 ## Requirement
 
-1. Python
+1. Python3
 2. Opencv
